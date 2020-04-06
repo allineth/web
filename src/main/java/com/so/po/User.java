@@ -1,5 +1,5 @@
 package com.so.po;
 
 public class User {
-    //很好
+    //很好的
 }
